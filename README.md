@@ -29,5 +29,9 @@ Use your Python interpreter .
 
 If names are different, replace name in the script to name, which given in device names.
 And also you can choose language of bot in the parameter "lang".
+
+# Exit
+To exit from script, type "exit".
+
 # **All are ready!**
 [![N|Solid](https://user-images.githubusercontent.com/108426835/180672123-2fecb949-11f7-4699-a64f-a51d7f82277a.png)](https://www.python.org/)
