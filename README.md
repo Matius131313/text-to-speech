@@ -1,8 +1,6 @@
 # Text-To-Speech
 Python script that voices given text and directs it to the Virtual Audio Cable.
 
-<img src="https://images.vexels.com/media/users/3/145866/isolated/preview/b4efb6c6682b2a808631bf8fbd96d015-sound-wave-icon.png" width="200px"/>
-
 # Start
 To start you need install Python Libs from requirements.txt
 
